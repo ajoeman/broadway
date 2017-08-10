@@ -35,3 +35,12 @@ h3{
   color: white;
   font-size: 23px;
 }
+.footer{
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+}
+#footlinks{
+  font-size: 14px;
+}
